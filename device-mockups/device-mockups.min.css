@@ -1,3 +1,25 @@
+/* Google Pixel 2 XL */
+.device-mockup.pixel2_xl,
+.device-mockup.pixel2_xl.portrait {
+  padding-bottom: 201%;
+}
+
+.device-mockup.pixel2_xl > .device,
+.device-mockup.pixel2_xl.black > .device,
+.device-mockup.pixel2_xl.portrait.black > .device {
+  background-image: url("pixel2_xl/pixel2_xl_black.png");
+}
+
+.device-mockup.pixel2_xl > .device > .screen,
+.device-mockup.pixel2_xl.portrait > .device > .screen {
+  top: 12.58%;
+  bottom: 7.88%;
+  left: 4.77%;
+  right: 5.87%;
+}
+
+/* END */
+
 .device-mockup {
   position: relative;
   width: 100%;
