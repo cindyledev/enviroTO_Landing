@@ -51,7 +51,7 @@ section h2 {
 }
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
-  background-color: #fff;
+  background-color: #004e63;
   transition: all 0.35s;
   font-family: Catamaran, Helvetica, Arial, sans-serif;
   font-weight: 200;
@@ -70,7 +70,7 @@ section h2 {
 #mainNav .navbar-toggler {
   font-size: 12px;
   padding: 8px 10px;
-  color: #222;
+  color: #fff;
 }
 #mainNav .navbar-nav > li > a {
   font-size: 11px;
@@ -87,7 +87,7 @@ section h2 {
 }
 #mainNav .navbar-nav > li > a,
 #mainNav .navbar-nav > li > a:focus {
-  color: #222;
+  color: #fff;
 }
 #mainNav .navbar-nav > li > a:focus:hover,
 #mainNav .navbar-nav > li > a:hover {
